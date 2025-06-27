@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Gemini AI Chatbot
-Description: Integrate Google Gemini AI as a chatbot on your WordPress site with WooCommerce support.
+Description: Integrate Google Gemini AI as a chatbot on your WordPress site with WooCommerce support. Shortcode [gemini_chatbot]
 Version: 1.0
-Author: Your Name
-Author URI: yourwebsite.com
+Author: Shyam Sahani
+Author URI: www.sknetking9.blogspot.com
 License: GPL2
 */
 
